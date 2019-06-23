@@ -10,5 +10,5 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.levy08:UpdateLibrary:Tag'
+	        implementation 'com.github.levy08:UpdateLibrary:1.0.0'
 	}
